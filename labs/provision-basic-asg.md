@@ -1,3 +1,7 @@
+# Install aws cli if you have not installed it
+```
+sudo pip install awscli --upgrade --user
+```
 # Provision autoscaling group
 
 In this lab you will provision an AWS autoscaling group comprised of an ELB and 2 EC2 instances.
