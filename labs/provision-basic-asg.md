@@ -1,5 +1,6 @@
 # Install aws cli if you have not installed it
 ```
+sudo apt install awscli
 sudo pip install awscli --upgrade --user
 ```
 # Provision autoscaling group
